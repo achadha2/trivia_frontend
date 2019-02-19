@@ -1,0 +1,541 @@
+
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+      "correct_answer": "Bulldog",
+      "incorrect_answers": [
+        "Yorkshire Terrier",
+        "Boxer",
+        "Pug"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+      "correct_answer": "Demolition",
+      "incorrect_answers": [
+        "The Dream Team",
+        "The Bushwhackers",
+        "The British Bulldogs"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+      "correct_answer": "Mike",
+      "incorrect_answers": [
+        "Matthew",
+        "Mark",
+        "Max"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Rolex is a company that specializes in what type of product?",
+      "correct_answer": "Watches",
+      "incorrect_answers": [
+        "Cars",
+        "Computers",
+        "Sports equipment"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A doctor with a PhD is a doctor of what?",
+      "correct_answer": "Philosophy",
+      "incorrect_answers": [
+        "Psychology",
+        "Phrenology",
+        "Physical Therapy"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the Morse code, which letter is indicated by 3 dots? ",
+      "correct_answer": "S",
+      "incorrect_answers": [
+        "O",
+        "A",
+        "C"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which American president appears on a one dollar bill?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": [
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "Benjamin Franklin"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "When was &quot;YouTube&quot; founded?",
+      "correct_answer": "February 14, 2005",
+      "incorrect_answers": [
+        "May 22, 2004",
+        "September 12, 2005",
+        "July 19, 2009"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which one of the following rhythm games was made by Harmonix?",
+      "correct_answer": "Rock Band",
+      "incorrect_answers": [
+        "Meat Beat Mania",
+        "Guitar Hero Live",
+        "Dance Dance Revolution"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+      "correct_answer": "Gorilla",
+      "incorrect_answers": [
+        "Tiger",
+        "Panda",
+        "Crocodile"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In 2013 how much money was lost by Nigerian scams?",
+      "correct_answer": "$12.7 Billion",
+      "incorrect_answers": [
+        "$95 Million",
+        "$956 Million",
+        "$2.7 Billion"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many colors are there in a rainbow?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which film star has his statue in Leicester Square?",
+      "correct_answer": "Charlie Chaplin",
+      "incorrect_answers": [
+        "Paul Newman",
+        "Rowan Atkinson ",
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is not another name for the eggplant?",
+      "correct_answer": "Potimarron",
+      "incorrect_answers": [
+        "Brinjal",
+        "Guinea Squash",
+        "Melongene"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is a co-founder of music streaming service Spotify?",
+      "correct_answer": "Daniel Ek",
+      "incorrect_answers": [
+        "Sean Parker",
+        "Felix Miller",
+        "Michael Breidenbruecker"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Sciophobia is the fear of what?",
+      "correct_answer": "Shadows",
+      "incorrect_answers": [
+        "Eating",
+        "Bright lights",
+        "Transportation"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What alcoholic drink is mainly made from juniper berries?",
+      "correct_answer": "Gin",
+      "incorrect_answers": [
+        "Vodka",
+        "Rum",
+        "Tequila"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+      "correct_answer": "Bullfighting",
+      "incorrect_answers": [
+        "Fiestas",
+        "Flamenco",
+        "Mariachi"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the German word for &quot;spoon&quot;?",
+      "correct_answer": "L&ouml;ffel",
+      "incorrect_answers": [
+        "Gabel",
+        "Messer",
+        "Essst&auml;bchen"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the Spanish word for &quot;donkey&quot;?",
+      "correct_answer": "Burro",
+      "incorrect_answers": [
+        "Caballo",
+        "Toro",
+        "Perro"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+      "correct_answer": "Feiji",
+      "incorrect_answers": [
+        "Qiche",
+        "Zongxian",
+        "Huojian"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The term &quot;scientist&quot; was coined in which year?",
+      "correct_answer": "1833",
+      "incorrect_answers": [
+        "1933",
+        "1942",
+        "1796"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Five dollars is worth how many nickles?",
+      "correct_answer": "100",
+      "incorrect_answers": [
+        "50",
+        "25",
+        "69"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is depicted on the US hundred dollar bill?",
+      "correct_answer": "Benjamin Franklin",
+      "incorrect_answers": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Thomas Jefferson"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was Nintendo founded?",
+      "correct_answer": "September 23rd, 1889",
+      "incorrect_answers": [
+        "October 19th, 1891",
+        "March 4th, 1887",
+        "December 27th, 1894"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following carbonated soft drinks were introduced first?",
+      "correct_answer": "Dr. Pepper",
+      "incorrect_answers": [
+        "Coca-Cola",
+        "Sprite",
+        "Mountain Dew"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+      "correct_answer": "150",
+      "incorrect_answers": [
+        "200",
+        "100",
+        "155"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+      "correct_answer": "Fruit Brute",
+      "incorrect_answers": [
+        "Count Chocula",
+        "Franken Berry",
+        "Boo-Berry"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+      "correct_answer": "Twilight Zone Tower of Terror",
+      "incorrect_answers": [
+        "The Haunted Mansion",
+        "Pirates of the Caribbean",
+        "Peter Pan&#039;s Flight"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What color is the &quot;Ex&quot; in FedEx Ground?",
+      "correct_answer": "Green",
+      "incorrect_answers": [
+        "Red",
+        "Light Blue",
+        "Orange"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the first ever London Underground line to be built?",
+      "correct_answer": "Metropolitan Line",
+      "incorrect_answers": [
+        "Circle Line",
+        "Bakerloo Line",
+        "Victoria Line"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What year was the RoboSapien toy robot released?",
+      "correct_answer": "2004",
+      "incorrect_answers": [
+        "2000",
+        "2001",
+        "2006"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the Portuguese word for &quot;Brazil&quot;?",
+      "correct_answer": "Brasil",
+      "incorrect_answers": [
+        "Brazil",
+        "Brasilia",
+        "Bras&iacute;l"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+      "correct_answer": "28%",
+      "incorrect_answers": [
+        "13%",
+        "20%",
+        "7%"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did the website &quot;Facebook&quot; launch?",
+      "correct_answer": "2004",
+      "incorrect_answers": [
+        "2005",
+        "2003",
+        "2006"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+      "correct_answer": "Jumping over an office chair",
+      "incorrect_answers": [
+        "Jumping backwards over a desk",
+        "Standing on his head",
+        "Typing on a keyboard during a handstand"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+      "correct_answer": "Pancreatic",
+      "incorrect_answers": [
+        "Bone",
+        "Liver",
+        "Stomach"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+      "correct_answer": "Hewlett-Packard",
+      "incorrect_answers": [
+        "Toshiba",
+        "Asus",
+        "Dell"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Earl Grey tea is black tea flavoured with what?",
+      "correct_answer": "Bergamot oil",
+      "incorrect_answers": [
+        "Lavender",
+        "Vanilla",
+        "Honey"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The website &quot;Shut Up &amp; Sit Down&quot; reviews which form of media?",
+      "correct_answer": "Board Games",
+      "incorrect_answers": [
+        "Television Shows",
+        "Video Games",
+        "Films"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Whose greyscale face is on the kappa emoticon on Twitch?",
+      "correct_answer": "Josh DeSeno",
+      "incorrect_answers": [
+        "Justin DeSeno",
+        "John DeSeno",
+        "Jimmy DeSeno"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Chartreuse is a color between yellow and what?",
+      "correct_answer": "Green",
+      "incorrect_answers": [
+        "Red",
+        "Black",
+        "Purple"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Originally another word for poppy, coquelicot is a shade of what?",
+      "correct_answer": "Red",
+      "incorrect_answers": [
+        "Green",
+        "Blue",
+        "Pink"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+      "correct_answer": "Kilt",
+      "incorrect_answers": [
+        "Skirt",
+        "Dress",
+        "Rhobes"
+      ]
+    },
+    {
+      "category": "2",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which country, not including Japan, has the most people of japanese decent?",
+      "correct_answer": "Brazil",
+      "incorrect_answers": [
+        "China",
+        "South Korea",
+        "United States of America"
+      ]
+    }

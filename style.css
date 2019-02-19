@@ -1,0 +1,235 @@
+body {
+   /* background-image: url("img/back2.png"); */
+   /* background-image: url("https://wallpapercave.com/wp/wp2564226.png"); */
+   /* background-image: url("img/back.jpg"); */
+   background-image: url("img/back2.png");
+   /* background-color: #cccccc; */
+
+}
+
+.card{
+  padding-left: 10px;
+  padding-right: 10px;
+  /* height: 400100px;
+  width: 150px; */
+  font-weight: bold;
+}
+
+.questions-container{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  padding-left: 180px;
+  height: 250px;
+  width: 600px;
+  padding-top: 10px;
+
+}
+
+
+.categories-container{
+  /* display: grid | inline-grid;
+  grid-template-columns: 40px 50px auto 50px 40px;
+  grid-template-rows: 25% 100px auto; */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+
+
+}
+
+.clicked{
+  border-style: dotted
+}
+
+.quest {
+ /* border: 1px solid black; */
+ background-image: linear-gradient(#367bba, #0d141bed);
+ padding: 5px 10px;
+ font-size: 22px;
+ cursor: pointer;
+ border-radius: 12px;
+ text-align: center;
+ width: 120px;
+ height: 30px;
+ font-weight: bold;
+ font-family: "Arial";
+ color: #FFFFFF;
+
+ text-shadow: 3px 5px 2px #0d141bed;
+ color: #FFFFFF;
+ margin-top: 5px;
+  margin-bottom: 5px;
+
+
+}
+
+p:hover{
+  background: green;
+      color: white;
+
+}
+.bigbox{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+
+
+}
+#timer{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+
+  width: 500px;
+  height: 280px;
+  padding-left:20px;
+}
+
+.timer{
+  display: flex;
+  justify-content: center;
+  width: 300px;
+  height: 130px;
+  font-family: "Arial";
+  font-size: 100px;
+  color: #367bba;
+  /* background-color: #4F4846; */
+
+  border-radius: 25px;
+  background-image: linear-gradient(white, white);
+  font-weight: bold;
+  box-shadow: 10px 10px 5px #636465ed;
+}
+
+h3{
+  text-align: center;
+  font-weight: bold;
+}
+
+p{
+  background-image: linear-gradient(#367bba, #0d141bed);
+  padding: 5px 10px;
+  font-size: 22px;
+  cursor: pointer;
+  border-radius: 12px;
+  text-align: center;
+  width: 120px;
+  height: 30px;
+  font-weight: bold;
+  font-family: "Arial";
+  color: #FFFFFF;
+
+  text-shadow: 3px 5px 2px #0d141bed;
+  color: #FFFFFF;
+  margin-top: 5px;
+   margin-bottom: 5px;
+}
+
+.selected{
+  background: blue !important;
+  color: white !important;
+}
+
+
+
+.answered{
+  background-image: linear-gradient(black, black);
+
+
+}
+
+#answers{
+  /* background-image: linear-gradient(#367bba, #0d141bed); */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  /* border-style: groove;
+  border-color: green; */
+  height: 150px;
+  width: 598px
+}
+
+#question-string{
+  display: flex;
+
+  font-family: "Arial";
+
+  font-size: 20px;
+  /* background-color: navy; */
+  height: 80px;
+  width: 598;
+  color: #367bba;
+  border-radius: 15px;
+  background-image: linear-gradient(white, white);
+  font-weight: bold;
+  box-shadow: 10px 10px 5px #636465ed;
+
+  padding-left: 7px;
+  padding-right: 7px;
+  text-align: center;
+  height: 80px;
+  width: 598px;
+}
+
+#question-text{
+  display: flex;
+
+  height: 80px;
+  width: 598px;
+  justify-content: center !important;
+}
+
+
+.response{
+  font-family: "Arial";
+  font-size: 22px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 69px;
+  width: 45%;
+
+  justify-content: center !important;
+  color: #367bba;
+  border-radius: 25px;
+  background-image: linear-gradient(white, white);
+  font-weight: bold;
+  box-shadow: 10px 10px 5px #636465ed;
+
+}
+
+.points{
+  display: flex;
+  justify-content: center;
+  width: 300px;
+  height: 130px;
+  font-family: "Arial";
+  font-size: 50px;
+  color: #367bba;
+  /* background-color: #4F4846; */
+  border-radius: 25px;
+  background-image: linear-gradient(white, white);
+  font-weight: bold;
+  box-shadow: 10px 10px 5px #636465ed;
+}
+
+.response:hover{
+  background-image: linear-gradient(blue,blue);
+  color:white;
+}
+
+.correct{
+  background: green !important;
+  color: white;
+}
+
+b{
+  font-weight: bold;
+}
